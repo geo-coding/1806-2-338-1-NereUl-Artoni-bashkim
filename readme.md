@@ -44,5 +44,6 @@ Arton (Ismet) Hyseni
 Neredime e Ulët
 Rr. "Dëshmorët e Manastircit" Fsh. Manastirc
 00338-1,01806-2
+30715,37248
 
 ```
